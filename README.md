@@ -1,4 +1,4 @@
-# 🖥️ Lenovo Landing Page - Projeto React
+<img width="1234" height="934" alt="image" src="https://github.com/user-attachments/assets/31667ccf-ff19-429c-9b20-76caf37de323" /># 🖥️ Lenovo Landing Page - Projeto React
 
 ## 📌 Descrição
 
@@ -182,13 +182,6 @@ background: linear-gradient(
 * 💳 Integração com pagamento
 
 ---
-
-## 📸 Preview do Projeto
-
-*(Adicione aqui um print ou GIF do sistema rodando)*
-
----
-
 ## 👨‍💻 Autor
 
 **Bernardo Soares Zacharias**
