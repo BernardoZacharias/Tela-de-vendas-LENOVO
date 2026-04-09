@@ -1,5 +1,3 @@
-<img width="1234" height="934" alt="image" src="https://github.com/user-attachments/assets/31667ccf-ff19-429c-9b20-76caf37de323" /># 🖥️ Lenovo Landing Page - Projeto React
-
 ## 📌 Descrição
 
 Este projeto consiste no desenvolvimento de uma **landing page moderna** para apresentação de produtos da Lenovo, utilizando **React + CSS moderno**.
