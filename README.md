@@ -183,6 +183,7 @@ background: linear-gradient(
 ## 👨‍💻 Autor
 
 **Bernardo Soares Zacharias**
+**Rafael Rinaldi Da Matta**
 
 📌 Estudante de Desenvolvimento de Sistemas
 📌 Focado em Front-end, UX/UI e soluções tecnológicas
